@@ -1,0 +1,15 @@
+{
+  "name": "13-unit-testing",
+  "version": "1.0.0",
+  "description": "Unit Testing  6% Using assertions Testing synchronous code Testing asynchronous code",
+  "main": "answer.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
